@@ -26,7 +26,7 @@ To create a new spreadsheet - http://localhost:3000/spreadsheet/new
 
 To create multiple session for same spreadsheet, use same `spreadsheet-id` in below url. 
 
-i.e - http://localhost:3000/spreadsheet/<spreadsheet-id> 
+i.e - http://localhost:3000/spreadsheet/'spreadsheet-id' 
 
 e.x: http://localhost:3000/spreadsheet/10000
 
